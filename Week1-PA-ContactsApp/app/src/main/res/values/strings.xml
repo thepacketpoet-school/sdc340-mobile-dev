@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Haley Archer - Contacts Address Book</string>
+    <string name="category_a">A</string>
+    <string name="contact1_name">Alice Anderson</string>
+    <string name="contact2_name">Alex Armstrong</string>
+    <string name="btn_view_contact">View Contact</string>
+
+    <string name="contact1_full_name">Alice Anderson</string>
+    <string name="contact1_address">123 Main Street\nAustin, TX 78701</string>
+    <string name="contact1_phone">(512) 555-1234</string>
+    <string name="contact1_email">alice.anderson@email.com</string>
+
+    <string name="contact2_full_name">Alex Armstrong</string>
+    <string name="contact2_address">456 Oak Avenue\nAustin, TX 78702</string>
+    <string name="contact2_phone">(512) 555-5678</string>
+    <string name="contact2_email">alex.armstrong@email.com</string>
+
+    <string name="description">Contact Photo</string>
+</resources>
