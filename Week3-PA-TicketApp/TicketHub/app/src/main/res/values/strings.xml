@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Haley Archer - PA1 - 02/15/2026 -->
+<resources>
+    <string name="app_name">Haley Archer - Ticket Hub</string>
+    <string name="title">Concert Ticket Hub</string>
+    <string name="number_hint">Number of Tickets</string>
+    <string name="calculate_button">Calculate Cost</string>
+    <string name="event_prompt">Select Event</string>
+    <string name="image_description">Concert Image</string>
+    
+    <string-array name="events">
+        <item>Pop Music Festival - $49.99</item>
+        <item>Jazz Music Festival - $45.99</item>
+        <item>Country Music Festival - $42.99</item>
+    </string-array>
+</resources>
